@@ -14,7 +14,7 @@ The project involved hardware prototyping, sensor integration, chassis design, c
 
 ## 📁 Contents
 
-- `GroupProject_FinalReport.pdf` – Full project report detailing background, design, implementation, testing, and results
+- `Group9_Report.pdf` – Full project report detailing background, design, implementation, testing, and results
 
 ## 🔧 Technologies Used
 
