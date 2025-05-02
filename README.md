@@ -14,7 +14,7 @@ The project involved physical prototyping, sensor calibration, chassis design (l
 
 ## 📁 Contents
 
-- `GroupProject_FinalReport.pdf` – Full project report including background research, technical design, implementation, evaluation, and conclusions
+- `ProjectReport.pdf` – Full project report including background research, technical design, implementation, evaluation, and conclusions
 
 ## 🔧 Technologies Used
 
